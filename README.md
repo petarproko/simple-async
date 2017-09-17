@@ -1,7 +1,7 @@
-# simple-async
+# simplify-async
 Simple, lightweight and object oriented asynchronous(async) function for javascript
 
-var Async = require('simple-async').simpleAsync;
+var Async = require('simplify-async').simpleAsync;
 
 	function test() {
 		var promise = new Async();
